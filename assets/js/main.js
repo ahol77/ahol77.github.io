@@ -30,9 +30,6 @@
 		if (browser.mobile)
 			$body.addClass('is-touch');
 
-	// Forms.
-		var $form = $('form');
-
 		// Auto-resizing textareas.
 			$form.find('textarea').each(function() {
 
