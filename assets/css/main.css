@@ -2137,7 +2137,7 @@ input, select, textarea {
 		margin: 0 0 1em 0;
 	}
 
-	
+
 
 /* Box */
 
@@ -3060,7 +3060,7 @@ input, select, textarea {
 				list-style: none;
 				text-align: center;
 				font-size: 0.8em;
-				color: rgba(88, 88, 88, 0.5);
+				color: rgba(88, 88, 88, 0.8);
 			}
 
 				#footer > .inner .copyright a {
