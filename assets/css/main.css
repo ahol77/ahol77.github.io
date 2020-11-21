@@ -1318,6 +1318,18 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.footer {
+			display: block;
+			margin: 0 0 2em 0;
+			width: 100%;
+			max-width: 20em;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		.image.footer img {
+			width: 100%;
+		}
 			@media screen and (max-width: 700px) {
 
 				.image.main {
