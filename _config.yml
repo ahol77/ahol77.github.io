@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aaron Holman"
 title_separator          : "-"
 name                     : &name "Aaron Holman"
-description              : &description "personal description"
+description              : &description "Physics PhD Student"
 url                      : https://aaronholman.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ahol77/ahol77.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/aaronholman
+  linkedin         : "aaronholman"
   orcid            :
   pinterest        :
   soundcloud       :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
