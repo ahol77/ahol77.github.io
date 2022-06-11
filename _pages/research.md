@@ -13,4 +13,3 @@ As part of this platform, I developed a new dispensers based strontium source th
 Our experiment also implements holographic metasurfaces for the creation of high quality optical tweezer arrays with arbitrary geometries in 1D, 2D, and 3D.
 
 Here is an early summary of our experiment from DAMOP 2021.
-<!-- {% include video id="OBReNUWZpaE" provider="youtube" %} -->
