@@ -3,9 +3,12 @@ main:
   - title: "Research"
     url: /research/
 
-  # - title: "Publications"
-  #   url: /publications/
-  #
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Outreach"
+    url: /outreach/
+
   # - title: "Talks"
   #   url: /talks/
   #
