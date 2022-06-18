@@ -5,15 +5,15 @@ permalink: /research/
 author_profile: true
 gallery:
   - url: research/dispensers.jpg
-    image_path: images/dispensers.jpg
+    image_path: research/dispensers.jpg
     alt: "novel strontium dispensers with shields"
     title: "Novel strontium dispensers with shields."
   - url: research/3DMOT.jpg
-    image_path: images/3DMOT.jpg
+    image_path: research/3DMOT.jpg
     alt: "3D MOT of a couple million atoms in glass cell"
     title: "3D MOT of a couple million atoms in glass cell."
   - url: research/quasicrystal.png
-    image_path: images/quasicrystal.png
+    image_path: research/quasicrystal.png
     alt: "metasurface generated tweezer array in the shape of a quasicrystal"
     title: "Metasurface generated tweezer array in the shape of a quasicrystal."
 
