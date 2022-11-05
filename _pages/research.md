@@ -10,8 +10,8 @@ gallery:
     title: "Novel strontium dispensers with shields."
   - url: research/3DMOT.JPG
     image_path: research/3DMOT.JPG
-    alt: "3D MOT of a couple million atoms in glass cell"
-    title: "3D MOT of a couple million atoms in glass cell."
+    alt: "3D MOT of a couple million atoms in the glass cell"
+    title: "3D MOT of a couple million atoms in the glass cell."
   - url: research/quasicrystal.png
     image_path: research/quasicrystal.png
     alt: "metasurface generated tweezer array in the shape of a quasicrystal"
