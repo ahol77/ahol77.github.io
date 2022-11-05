@@ -2,7 +2,6 @@
 title: "Jet-Loaded Cold Atomic Beam Source for Strontium"
 collection: publications
 permalink: /publication/2022-10-25-Jet-Loaded-Cold-Atomic-Beam-Source-for-Strontium
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-10-25
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2210.14186'
