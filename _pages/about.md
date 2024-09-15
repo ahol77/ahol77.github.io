@@ -8,8 +8,8 @@ redirect_from:
   - /about/
   - /about.html
 gallery:
-  - url: statue.png
-    image_path: statue.png
+  - url: statue_of_liberty.png
+    image_path: statue_of_liberty.png
     alt: "Single strontium atoms arranged in the Statue of Liberty."
     title: "Single strontium atoms arranged in the Statue of Liberty."
 
