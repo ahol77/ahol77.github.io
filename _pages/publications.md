@@ -1,6 +1,4 @@
 ---
-bold:
-- A. Holman
 layout: archive
 title: "Publications"
 permalink: /publications/
